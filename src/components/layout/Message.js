@@ -17,7 +17,7 @@ function Message({type, msg}){
             setVisible(false)
         }, 3000)
 
-        return() => clearInterval(timer)
+        return() =>clearInterval(timer)
     },[msg])
 
     return(

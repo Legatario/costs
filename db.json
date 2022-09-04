@@ -2,18 +2,18 @@
   "projects": [
     {
       "name": "Projeto Teste",
-      "budget": "900",
+      "budget": "13000",
       "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
       "id": 2
     },
     {
-      "name": "Projeto Teste 8",
-      "budget": "600",
+      "name": "Projeto Teste ",
+      "budget": "900",
       "category": {
         "id": "1",
         "name": "Infra"

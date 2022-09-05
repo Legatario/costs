@@ -2,14 +2,32 @@
   "projects": [
     {
       "name": "Projeto Teste",
-      "budget": "5000",
+      "budget": "13000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
-      "id": 1
+      "id": 2
+    },
+    {
+      "name": "Projeto Teste ",
+      "budget": "900",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 600,
+      "services": [
+        {
+          "name": "contratar Dev",
+          "cost": "600",
+          "description": "contratar o luis como dev",
+          "id": "27d163ac-3d2f-4001-be6a-84cdf1dbccb0"
+        }
+      ],
+      "id": 3
     }
   ],
   "categories": [

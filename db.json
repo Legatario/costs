@@ -18,8 +18,27 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 400,
+      "services": [
+        {
+          "name": "serviço teste",
+          "cost": "100",
+          "description": "teste",
+          "id": "741c43f7-2c84-4912-9dfe-5ebad668844a"
+        },
+        {
+          "name": "serviço teste 3",
+          "cost": "100",
+          "description": "teste",
+          "id": "c6192c81-9cc4-4dbb-8915-eebb7cc6ac47"
+        },
+        {
+          "name": "Projeto Teste 6",
+          "cost": "200",
+          "description": "contratar dev",
+          "id": "cfa74f35-e24a-45a6-8202-a4eb9b4a9811"
+        }
+      ],
       "id": 3
     }
   ],

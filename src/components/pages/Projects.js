@@ -12,8 +12,8 @@ import Loading from "../layout/Loading"
 function Projects(){
 
     const [projects, setProjects] = useState([])
-    const[removeLoading, setRemoveLoading] = useState(false)
-    const[projectMessage, setProjectMessage] = useState('')
+    const [removeLoading, setRemoveLoading] = useState(false)
+    const [projectMessage, setProjectMessage] = useState('')
 
     const location = useLocation()
     let message = ''
